@@ -1,0 +1,9 @@
+
+Sebastián Navarro Lema
+Ubuntu 24.04.2 LTS
+
+Yo utilizaría el permiso 640 porque el numero 6 permitirá leer y escribir al
+propietario, el numero 4 permitirá leer al grupo y el 0 restringirá permisos 
+para cualquier otra persona.
+
+

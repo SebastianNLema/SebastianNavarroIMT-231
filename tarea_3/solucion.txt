@@ -1,0 +1,18 @@
+
+Respuesta, ejercicio 1
+Se usa el chmod 640 documento 1.txt  porque el 4 me da permisos de lectura  
+ para otro usuario,el 6 da permisos de lectura y escritura y el 0 no da ningun
+ permiso
+
+Respuesta, ejercicio 2.
+Se usa el chmod 711 script.sh porque el 7 le permite al propietario leer, escribir y 
+ejecutar, el 1 permite a otros grupos ejecutar y el siguiente 1 permite a otros usuarios
+ejecutar.
+
+Respuesta, ejercicio 3
+Se usa el chmod 600 config.cfg  porque el 6 permite al propietario leer y escribir, a la vez
+que impide el acceso de otros grupos y usuarios.
+
+Respuesta, ejercicio 4
+Se usa el chmod 400 secreto.key porque así el 4 permite al propietario leerlo, e impide a
+alguien más el acceso.
